@@ -1,0 +1,1 @@
+from .routes import router as foods_router
